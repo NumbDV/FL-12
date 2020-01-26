@@ -1,0 +1,28 @@
+ul {
+	padding-left: 20px;
+}
+li {
+	list-style-type: none;
+	cursor: pointer;
+}
+.hover:hover {
+	background: #e3e1e1;
+}
+.material-icons.folder {
+	color: #edbc0b;
+	vertical-align: bottom;
+	padding-right: 3px;
+}
+.material-icons.file {
+	color: grey;
+}
+.empty-folder {
+	font-style: italic;
+	padding: 3px 0px 0px 5px;
+}
+.hidden {
+	display: none;
+}
+.visible {
+	display: block;
+}
